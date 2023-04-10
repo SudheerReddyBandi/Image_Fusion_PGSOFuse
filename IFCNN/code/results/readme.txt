@@ -33,3 +33,17 @@ python IFCNN_Main.py
 
 # Or run code part by part in notebook
 jupyter notebook IFCNN_Notebook.ipynb
+
+
+Citation
+If you find this code is useful for your research, please consider to cite our paper. Yu Zhang, Yu Liu, Peng Sun, Han Yan, Xiaolin Zhao, Li Zhang, IFCNN: A General Image Fusion Framework Based on Convolutional Neural Network, Information Fusion, 54 (2020) 99-118.
+
+@article{zhang2020IFCNN,
+  title={IFCNN: A General Image Fusion Framework Based on Convolutional Neural Network},
+  author={Zhang, Yu and Liu, Yu and Sun, Peng and Yan, Han and Zhao, Xiaolin and Zhang, Li},
+  journal={Information Fusion},
+  volume={54},
+  pages={99--118},
+  year={2020},
+  publisher={Elsevier}
+}
